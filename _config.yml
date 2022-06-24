@@ -21,28 +21,27 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Li Shi                          # the main title
+title: Jiajun Hu                          # the main title
 
 tagline: Sleep every day               # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Li Shi
+  Jiajun Hu
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://shili2017.github.io'
+url: 'https://jiajunhu.github.io'
 
 github:
-  username: shili2017                   # change to your github username
+  username: codingMMax                  # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Li Shi
-  email: shili2048@gmail.com            # change to your email address
+  name: jiajun hu
+  email: maxhu990609@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/shili2017
-    - https://www.linkedin.com/in/lishi2022
+    - https://github.com/codingMMax
 
 google_site_verification:               # fill in to your verification string
 
