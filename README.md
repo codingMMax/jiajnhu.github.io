@@ -1,4 +1,4 @@
-## *Nice to Meet You!! 👋👋
+## Nice to Meet You!! 👋👋
 
 ### 😎 Welcome to Jiajun HU's homepage.🍻🍻<br> 
 
